@@ -17,4 +17,4 @@ for x in range(5):
     if checkOpLetter(hetjuistewoord, invoer):
         print("je hebt het goed")
     else:
-        print("je hebt het niet zo goed!")
+        print("je hebt het niet zo goed!!!")
